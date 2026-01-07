@@ -1,4 +1,4 @@
-# XML University Course Catalogue
+# XML University Course
 
 This mini project explores the design and use of XML as a semi-structured data format.
 It demonstrates:
